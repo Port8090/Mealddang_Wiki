@@ -1,4 +1,4 @@
-# Store_Wiki
+# [Store_Wiki](https://github.com/Port8090/Store_Wiki/wiki)
 
 ## 작성해야 할 문서
 1. WBS (Work Breakdown Structure) - google drive
